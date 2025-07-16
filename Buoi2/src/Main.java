@@ -3,6 +3,7 @@
 import java.util.Scanner;
 public class Main {
     public static void Nhapso() {
+
         System.out.println("Nhap gia tri a va b: ");
     }
     public static void tinh(int a, int b) {
